@@ -1,0 +1,8 @@
+All you have to do is to make a dictionary contains
+exam's quesitons as a key and answers as a value.
+1- insert your dict. 
+2- change number of your questions and answers in the code
+3- run the code---
+|
+|
+|---->forms and their answer keys will be generated in the same directory of the file 
